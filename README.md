@@ -1,9 +1,9 @@
 
-#  Arthur Bogacki
+#   Arthur Bogacki
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-46005F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-bogacki-061771236/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-512D7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_bogacki/)
-
+ 
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-46005F?style=for-the-badge&logo=html5&logoColor=white)
